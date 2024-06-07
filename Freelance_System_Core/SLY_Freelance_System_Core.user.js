@@ -6,9 +6,9 @@
 // @author       SLY
 // @match        https://based.staratlas.com/
 // @require      https://unpkg.com/@solana/web3.js@latest/lib/index.iife.min.js
-// @require      https://raw.githubusercontent.com/Sopepp/main/anchor-browserified.js
-// @require      https://raw.githubusercontent.com/Sopepp/main/buffer-browserified.js
-// @require      https://raw.githubusercontent.com/Sopepp/main/bs58-browserified.js
+// @require      https://raw.githubusercontent.com/Sopepp/Starbased-New/main/anchor-browserified.js
+// @require      https://raw.githubusercontent.com/Sopepp/Starbased-New/main/buffer-browserified.js
+// @require      https://raw.githubusercontent.com/Sopepp/Starbased-New/main/bs58-browserified.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=staratlas.com
 // @grant        GM_setValue
 // @grant        GM_getValue
